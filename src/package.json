@@ -1,0 +1,23 @@
+{
+  "name": "ms-teams-github-bot",
+  "version": "1.0.0",
+  "description": "Check up on your Github account in MS Teams",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyntaxC4-MSFT/ms-teams-github-bot.git"
+  },
+  "author": "Cory Fowler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyntaxC4-MSFT/ms-teams-github-bot/issues"
+  },
+  "homepage": "https://github.com/SyntaxC4-MSFT/ms-teams-github-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.2.0"
+  }
+}
